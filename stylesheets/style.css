@@ -9,8 +9,9 @@
 }
 
 body {
-    background-color: darkblue;
-    color: white;
+    background-color: #2B3499;
+    color: #FFD099;
+    font-size: 20px;
 }
 
 .container {
@@ -25,7 +26,7 @@ nav{
 li {
     list-style: none;
     font-size: large;
-    padding: 0 5px 0 5px;
+    padding: 0 10px;
     float: right;
 }
 
