@@ -11,8 +11,13 @@ body {
     color: #FFD099;
     font-size: 20px;
     font-family: 'Sansita';
+    padding: 30px;
 }
 
-.container {
-    margin: 20px 30px 20px 30px;
+a {
+    color: #FFD099;
+}
+
+p {
+    padding-bottom: 10px;
 }

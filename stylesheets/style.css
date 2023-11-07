@@ -39,10 +39,17 @@ a {
    font-size: 50px;
 }
 
-.skills p {
-    padding-bottom: 5px;
+.fleur {
+    font-size: 30px;
+    float: left;
 }
 
-.edu {
-    margin: 20px 0 20px 0;
+img {
+    width: 350px;
+}
+
+.home {
+   margin: auto;
+   text-align: center;
+   padding-top: 80px;
 }
