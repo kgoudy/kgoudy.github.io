@@ -11,8 +11,17 @@ body {
     color: #FFD099;
     font-size: 20px;
     font-family: 'Sansita';
+    padding: 45px;
 }
 
-.container {
-    margin: 20px 30px 20px 30px;
+.about-me {
+    margin-bottom: 25px;
+}
+
+.edu {
+    margin-bottom: 25px;
+}
+
+.skills p {
+    padding-bottom: 5px;
 }
