@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Sansita:wght@800&display=swap');
 
-
-
 * {
     margin: 0;
     padding: 0;
@@ -12,6 +10,7 @@ body {
     background-color: #2B3499;
     color: #FFD099;
     font-size: 20px;
+    font-family: 'Sansita';
 }
 
 .container {
@@ -32,7 +31,7 @@ li {
 
 a {
     text-decoration: none;
-    color: white;
+    color: #FFD099;
 }
 
 .intro-head {

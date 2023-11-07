@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita:wght@800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2B3499;
+    color: #FFD099;
+    font-size: 20px;
+    font-family: 'Sansita';
+}
+
+.container {
+    margin: 20px 30px 20px 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFD099;
+}
+
+.contact {
+   text-align: center;
+}
+
+.contact p {
+    display: inline-block;
+    font-size: 70px;
+    text-align: center;
+    padding: 250px 20px;
+}
