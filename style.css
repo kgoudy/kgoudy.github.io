@@ -8,6 +8,15 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: darkblue;
+    color: white;
+}
+
+.container {
+    margin: 20px 30px 20px 30px;
+}
+
 nav{
     padding: 10px;
     margin-bottom: 30px;
@@ -22,10 +31,18 @@ li {
 
 a {
     text-decoration: none;
-    color: black;
+    color: white;
+}
+
+.intro-head {
+   margin: 20px 0;
+   font-size: 50px;
 }
 
 .skills p {
     padding-bottom: 5px;
 }
 
+.edu {
+    margin: 20px 0 20px 0;
+}
