@@ -9,9 +9,7 @@ export default {
   theme: {
     extend: {},
   },
-  fontFamily: {
-    Changa: ["Changa"],
-  },
+  fontFamily: {},
 };
 // eslint-disable-next-line no-unused-labels
 plugins: [require("flowbite/plugin")];
