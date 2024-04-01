@@ -11,17 +11,18 @@ function Header() {
           <div className="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 rounded-lg bg-black md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0">
               <li>
-                <a
+                <Link
+                  to="/"
                   className="block py-2 px-3 text-yellow-400"
                   aria-current="page"
                 >
                   Home
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="block py-2 px-3 text-yellow-400">
+                <Link to="#" className="block py-2 px-3 text-yellow-400">
                   About
-                </a>
+                </Link>
               </li>
               <li>
                 <a href="#" className="block py-2 px-3 text-yellow-400">
@@ -29,9 +30,9 @@ function Header() {
                 </a>
               </li>
               <li>
-                <a href="#" className="block py-2 px-3 text-yellow-400">
+                <Link to="/contact" className="block py-2 px-3 text-yellow-400">
                   Contact
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
