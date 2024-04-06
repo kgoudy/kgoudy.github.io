@@ -26,7 +26,9 @@ const Contact = () => {
 
   return (
     <div>
-      <h2>Contact Me</h2>
+      <h2 className="text-6xl text-yellow-400 text-center mb-10">
+        Contact Me!
+      </h2>
       <form onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name</label>
