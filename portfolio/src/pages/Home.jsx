@@ -13,7 +13,7 @@ function Home() {
         <h1 className="text-7xl" id="koki-intro">
           Koki D Goudy
         </h1>
-        <p className="text-2xl">Junior Software Devloper</p>
+        <p className="text-2xl">Junior Software Developer</p>
       </div>
       <Footer />
     </>
